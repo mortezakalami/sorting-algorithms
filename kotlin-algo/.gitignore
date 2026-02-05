@@ -2,7 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-
+.idea/
+kotlin-algo.iml
 ### Eclipse ###
 .apt_generated
 .classpath
